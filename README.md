@@ -1,4 +1,3 @@
-Here's your updated GitHub description with installation instructions:  
 
 ---
 
@@ -38,4 +37,4 @@ Before using Betterlant, make sure you have the following installed:
 Feel free to fork the project, submit PRs, or open issues! Let's keep AI clean and open-source.  
 
 ---  
-Let me know if you need any tweaks or if I should add some humor. 😆
+
